@@ -1,0 +1,12 @@
+{
+    "name": "slo/command-keeper",
+    "description": "Мониторинг Minecraft серверов на php",
+    "authors": [
+        {
+            "name": "Sloga"
+        }
+    ],
+    "require": {
+        "lukasss93/minecraft-server-status": "^2.0"
+    }
+}

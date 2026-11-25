@@ -1,0 +1,7 @@
+/vendor/
+/osp/
+/archive/
+config.php
+.idea/
+.DS_Store
+*.log
