@@ -24,5 +24,4 @@
 5. Запустите локальный сервер (OpenServer/XAMPP).
 
 ## 📸 Скриншоты
-[url=https://ibb.co/JjhBxMjh][img]https://i.ibb.co/hFq7XtFq/1.png[/img][/url]
-[url=https://ibb.co/JjhBxMjh][img]https://i.ibb.co/hFq7XtFq/1.png[/img][/url]
+<a href="https://ibb.co/JjhBxMjh"><img src="https://i.ibb.co/JjhBxMjh/1.png" alt="1" border="0"></a> <a href="https://ibb.co/JjhBxMjh"><img src="https://i.ibb.co/JjhBxMjh/1.png" alt="1" border="0"></a>
